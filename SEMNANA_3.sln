@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEMNANA_3", "SEMNANA_3\SEMNANA_3.csproj", "{36E8433F-A8FA-44F7-B62D-6B6760E543D1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SEM_3 C# PERO PYTON", "SEM_3 C# PERO PYTON\SEM_3 C# PERO PYTON.pyproj", "{F8EA95DC-B18C-4C85-BD56-05A1B549EE76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36E8433F-A8FA-44F7-B62D-6B6760E543D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E8433F-A8FA-44F7-B62D-6B6760E543D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E8433F-A8FA-44F7-B62D-6B6760E543D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E8433F-A8FA-44F7-B62D-6B6760E543D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8EA95DC-B18C-4C85-BD56-05A1B549EE76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8EA95DC-B18C-4C85-BD56-05A1B549EE76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D11D7EE7-C3C8-43A7-AB10-D65E069751CB}
+	EndGlobalSection
+EndGlobal
